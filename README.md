@@ -30,6 +30,9 @@ Plant Co. wanted to track their **year-over-year profitability**, identify key d
 ---
 
 ## Dashboard Highlights
+
+![Dashboard Preview](images/dashboard.png)
+
 - **KPI Cards**: YTD, PYTD, GP%, and Year-over-Year delta
 - **Waterfall Chart**: Monthly change in Gross Profit vs PYTD
 - **Treemap**: Bottom 10 countries by GP delta
@@ -43,3 +46,4 @@ Plant Co. wanted to track their **year-over-year profitability**, identify key d
 - Writing robust DAX for business KPIs and trend metrics
 - Balancing storytelling with interactivity and stakeholder clarity
 - Translating raw data into strategic insights
+
